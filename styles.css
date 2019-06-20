@@ -1,0 +1,886 @@
+
+.menu {
+    width: 100%;
+    height: 12.5%;
+    background-color: black;
+
+}
+
+.logo{
+    width: 15%;
+    padding-left: 10%;
+    position: relative;
+}
+
+.nome{
+    width: 27%;
+}
+
+.menus  ul li {
+    display: inline-block;
+    font-size: 18px;
+    font-family: sans-serif;
+    float : right;
+    padding-top: 2.5%;
+    color: white;
+    padding-right: 2%;
+    text-decoration: none;
+    height: 60%;
+    padding-left: 2%;
+    
+}
+    
+a{
+    color: black;
+    text-decoration: none;
+    color: white;
+    
+}
+
+li a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.pousada{
+    width: 100%;
+    height: 87.5%;
+    text-align: center;
+ 
+}
+
+.texto{
+    position: relative;
+    width: 10%;
+    height: 10%;
+}
+
+.end{
+    margin-right: 5%;
+}
+
+.titulo{
+    text-transform: uppercase;
+    font-size: 35px;
+    font-family: Verdana;
+    text-align: center;
+    color: 818181;
+}
+
+.espacamento{
+    margin-top: 5%;
+    height: 35%;
+}
+
+.historia p{
+    padding-top: 1%;
+    font-size: 20px;
+    font-family: Verdana;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: 9a9a9a;
+    line-height: 1.2;
+    padding-bottom: 5%;
+}
+
+.container img{
+    padding-top: 2%;
+    height: 25%;
+    margin-left: 20%;
+    
+}
+
+.descricao ul li{
+    padding-top: 2%;
+    display: inline-block;
+    font-size: 20px;
+    font-family: Verdana;
+
+}
+
+.a{
+   margin-left: 13%; 
+    margin-right: 9.5%;
+    font-family: Verdana;
+    
+}
+
+.b{
+    margin-right: 7.5%;
+        font-family: Verdana;
+
+}
+
+.texto{
+    width:  100%;
+    height: 35%;
+}
+
+.texto h1{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 5%;
+    font-family: Helvetica;
+    font-weight: 700;
+}
+
+.texto hr{
+    margin-top: 1.5%;
+    width: 3%;
+    height: 1.5%;
+    background-color: D01919;
+    border: 0;
+}
+
+.texto p{
+    padding-top: 3%;
+    text-align: center;
+    font-size: 17px;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: Helvetica;
+    line-height: 140%;
+    padding-bottom: 15%;
+}
+
+.box-1{
+    width: 19%;
+    height: 25%;
+    padding-top: 3%;
+    float: right;
+    margin-top: 5%;
+    border-top: 1.5px solid #D8D5D4;
+    border-bottom: 1px solid #D8D5D4;
+    border-left: 1.5px solid #D8D5D4;
+    border-right: 1.5px solid #D8D5D4;
+    margin-right: 16%;
+    margin-left: 5%;
+
+}
+
+
+
+.sobre-cidade{
+    font-size: 16px; 
+    font-family: Helvetica;
+    padding-left: 2%;
+    line-height: 155%;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.box-1 h1{
+    padding-top: 0.5%;
+    text-align: center;
+    font-size: 24px;
+    color: D01919;
+    padding-bottom: 2%;
+    font-family: Helvetica;
+     font-weight: 700;
+}
+
+.box-2{ 
+    width: 19%;
+    height: 25%;
+    padding-top: 3%;
+    float: right;
+    margin-top: 5%;
+    border-top: 1.5px solid #D8D5D4;
+    border-bottom: 1px solid #D8D5D4;
+    border-left: 1.5px solid #D8D5D4;
+    border-right: 1.5px solid #D8D5D4;
+    margin-bottom: 5%;
+    
+    
+}
+
+.box-3{ 
+    width: 19%;
+    height: 25%;
+    padding-top: 3%;
+    margin-top: 5%;
+    float: left;
+    margin-left: 16%;
+    border-top: 1.5px solid #D8D5D4;
+    border-bottom: 1px solid #D8D5D4;
+    border-left: 1.5px solid #D8D5D4;
+    border-right: 1.5px solid #D8D5D4;
+    margin-bottom: 8%;
+    
+    
+}
+
+.vetor-cidade{
+    position: absolute;
+    margin-left: 70.8%;
+    height: 13.5%;
+    width: 7%;
+    float: right;
+}
+
+.vetor-acomodacoes{
+    position: absolute;
+    height: 13.5%;
+    margin-left: 46.8%;
+    width: 7%;
+    float: right;
+}
+
+.vetor-contato{
+    position: absolute;
+    height: 13.5%;
+    margin-left: 22.1%;
+    width: 7%;
+    float: right;
+}
+
+.box-2 h1{
+    padding-top: 0.5%;
+    text-align: center;
+    font-size: 24px;
+    color: D01919;
+    padding-bottom: 2%;
+    font-family: Helvetica;
+    font-weight: 700;
+}
+
+.box-3 h1{
+    padding-top: 0.5%;
+    text-align: center;
+    font-size: 24px;
+    color: D01919;
+    padding-bottom: 2%;
+    font-family: Helvetica;
+    font-weight: 700;
+}
+
+.img-quarto{
+    width: 50%;
+    height: 100%;
+    border-radius: 1%;
+    float: right;
+}
+
+.container-2{
+    width: 100%;
+    height: 50%;
+    background-color:  #D8D5D4;
+    margin-top: 30%
+}
+
+.container-2 h1{
+    font-size: 35px;
+    font-family: Helvetica;
+    font-weight: 700;
+
+}
+
+.piscina{
+    padding-top: 10%;
+    width: 20%;
+    height: 10%;
+    float: left;
+    margin-left: 12%;
+}
+
+.piscina hr{
+    margin-top: 5%;
+    width: 10%;
+    height: 5%;
+    background-color: D01919;
+    border: 0;
+}
+
+.piscina p{
+    text-align: center;
+    font-size: 20px;
+    font-family: Helvetica;
+}
+
+.container-3{
+    width: 100%;
+    height: 65%;
+    background-color: #D8D5D4;
+}
+
+.img-sala{
+    float: left;
+    width: 50%;
+    height: 100%;
+    border-radius: 1%;
+}
+
+.container-3 h1{
+    font-size: 35px;
+    font-family: Helvetica;
+    font-weight: 700;
+}
+
+
+.img-car{
+    width: 100%;
+    height: 55%;
+}
+
+
+.img-2{
+    position: absolute;
+    width: 30%;
+    height: 20%;
+    float: right
+}
+
+.img-3{
+    width: 100%;
+    height: 55%;
+}
+
+.quarto{
+    width: 100%;
+    height: 70%;
+}
+
+.texto-2 h1{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 10%;
+    font-family: Helvetica;
+    font-weight: 700;
+}
+
+.texto-2 hr{
+    margin-top: 1.5%;
+    width: 3%;
+    height: 2%;
+    background-color: D01919;
+    border: 0;
+    margin-bottom: 5%;
+}
+
+.comida{
+    width: 35%;
+    height: 130%;
+    float: left;
+    margin-left: 12%;
+    border-radius: 2%;
+    padding-top: 2%;
+
+}
+
+.comida-2{
+    width: 35%;
+    height: 130%;
+    float: right;
+    margin-right: 10%;
+    border-radius: 2%;
+    padding-top: 2%;
+}
+
+footer{
+    margin-top: 15%;
+    width: 100%;
+    height: 15%;
+    background-color: #5D5E61;
+}
+
+footer h1{
+    padding-top: 2%;
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+    font-size: 25px;
+    font-family: Helvetica;
+    
+}
+
+.hrzinho{
+    width: 100%;
+    height: 0.5%; 
+    background-color: gray;
+    border: 0;
+}
+
+.pousada-2{
+    width: 100%;
+    height: 60%;
+    text-align: center;
+ 
+}
+
+.vetor-tour{
+    position: absolute;
+    margin-left: 70.8%;
+    height: 13.5%;
+    width: 7%;
+    float: right;
+}
+
+.btn-cidade{
+    width: 45%;
+    height: 20%;
+    font-family: Helvetica;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: none;
+    text-align: center;
+    margin-left: 27.5%;
+    margin-top: 5%;
+    color: 	454343;
+    cursor: pointer;
+    background-color: #ffce25;
+    border-radius: 5%;
+    }
+
+.btn-cidade:hover{
+    background-color: #ff9625;
+    position: relative;
+    box-shadow: none;
+    font-size: 15px;
+    font-family: Helvetica;
+
+}
+
+.btn-cidade-1{
+    width: 45%;
+    height: 20%;
+    font-family: Helvetica;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: none;
+    text-align: center;
+    margin-left: 27.5%;
+    margin-top: 12.2%;
+    color: 	454343;
+    cursor: pointer;
+    background-color: #ffce25;
+    border-radius: 5%;
+    }
+
+.btn-cidade-1:hover{
+    background-color: #ff9625;
+    position: relative;
+    box-shadow: none;
+    font-size: 15px;
+    font-family: Helvetica;
+
+}
+
+.box-4{ 
+    position: absolute;
+    width: 19%;
+    height: 25%;
+    padding-top: 3%;
+    margin-top: 5%;
+    float: left;
+    background-color: D01919; 
+    margin-left: 45%;
+    border-top: 1.5px solid #D8D5D4;
+    border-bottom: 1px solid #D8D5D4;
+    border-left: 1.5px solid #D8D5D4;
+    border-right: 1.5px solid #D8D5D4;
+    margin-bottom: 12%;
+}
+
+ul li:hover{
+    background-color: D01919;
+    color: white;
+    font-size: 19px;
+}
+
+.comida:hover{
+    transform: scale(1.1);
+}
+
+.comida-2:hover{
+    transform: scale(1.1);
+}
+
+.vetor-comida{
+    position: absolute;
+    height: 13.5%;
+    margin-left: 22.1%;
+    width: 7%;
+    float: right;
+}
+
+.vetor-montanha{
+    position: absolute;
+    height: 13.7%;
+    margin-left: 46.8%;
+    width: 7%;
+    float: right;
+}
+
+.mapa{
+    margin-left: 30%;
+    width: 40%;
+    height: 50%;
+    border:0 allowfullscreen;
+}
+
+.patrocionios{
+    width: 100%;
+    height: 30%;
+    background-color: #f5f5f5;
+    margin-top: 5%;
+}
+
+.patrocionios h1{
+    font-family: Helvetica;
+    font-weight: 700;
+    padding-top: 1%;
+    text-align: center;
+    font-size: 25px;
+}
+
+.pt-1{
+    padding-top: 1%;
+    float: left;
+    margin-left: 40%;
+    width: 6.5%;
+    height:85%;
+    padding-bottom: 1%;
+}
+.pt-2{
+    padding-top: 1%;
+    float: right;
+    margin-right: 40%;
+    width: 12%;
+    height: 85%;
+    padding-bottom: 1%;
+}
+
+.patrocionios-2{
+    width: 100%;
+    height: 15%;
+    background-color: #f5f5f5;
+    margin-top: 15%;
+}
+
+.patrocionios-2 h1{
+    font-family: Helvetica;
+    font-weight: 700;
+    padding-top: 1%;
+    text-align: center;
+    font-size: 25px;
+}
+
+.pousada-3{
+    width: 100%;
+    height: 60%;
+    text-align: center;
+ 
+}
+
+.texto-img{
+    position: absolute;
+    font-size: 92px;
+    color: white;
+    text-align: center;
+    margin-left: 37%;
+    margin-top: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    line-height: 74px;
+}
+
+.quarto-casal{
+    text-align: center;
+    margin-left: 13%;
+    width: 35%;
+    border-radius: 2%;
+    float: left;
+}
+.quarto-casal:hover{
+    transform: scale(1.1)
+}
+
+.visitar-1{
+    width: 15%;
+    height: 5%;
+    font-family: Helvetica;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: none;
+    text-align: center;
+    margin-left: 42.5%;
+    color: 	454343;
+    cursor: pointer;
+    background-color: #ffce25;
+    border-radius: 5%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    }
+    
+.visitar-1:hover{
+    background-color: #ff9625;
+    transform: 1s;
+}
+
+    .texto-2 h1{
+        text-align: center;
+        font-size: 45px;
+        margin-top: 5%;
+        font-family: Helvetica;
+        font-weight: 700;
+    }
+
+    .texto-2{
+        width:  100%;
+        height: 15%;
+    }
+
+    .texto-2 p{
+        padding-top: 3%;
+        text-align: center;
+        font-size: 17px;
+        margin-left: 25%;
+        margin-right: 25%;
+        font-family: Helvetica;
+        line-height: 140%;
+        padding-bottom: 15%;
+        margin-top: 25%;
+    }
+
+
+.sobre h1 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+.banheiro {
+    text-align: center;
+    margin-right: 10%;
+    width: 35%;
+    border-radius: 2%;
+    float: right;
+}
+.banheiro:hover{
+    transform: scale(1.1)
+}
+
+.nome-2{
+    text-align: center;
+    font-size: 17px;
+    margin-left: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.nome{
+    height: 5%;
+    margin-left: 20%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    font-size: 17px;
+}
+
+.nome-3{
+    text-align: center;
+    font-size: 17px;
+    margin-left: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.nome-4{
+    height: 5%;
+    margin-left: 5%;
+    margin-top: 1%;
+    width: 30%;
+    font-size: 17px;
+}
+
+.nome-5{
+    text-align: center;
+    font-size: 17px;
+    margin-left: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2%;
+    
+}
+
+.gmail{
+    margin-top: 2%;
+    margin-right: 15%;
+    float: right;
+    font-size: 17px; 
+}
+
+
+.texto-6{
+    width:  100%;
+    height: 20%;
+}
+
+.texto-6 h1{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 5%;
+    font-family: Helvetica;
+    font-weight: 700;
+}
+
+.texto-6 hr{
+    margin-top: 1.5%;
+    width: 3%;
+    height: 2%;
+    background-color: D01919;
+    border: 0;
+}
+
+.area{
+    width: 50%;
+    height: 30%;
+    margin-left: 20%;
+    margin-top: 2%;
+    font-size: 17px;
+    max-width: 50%;
+    max-height: 30%;
+}
+
+
+.nome-7{
+    height: 5%;
+    margin-left: 20%;
+    margin-bottom: 3%;
+    font-size: 17px;
+    font-family: Helvetica;
+}
+
+
+.botao-1{
+    margin-left: 25%;
+    height: 5%;
+    background-color: #d01919;
+    border: white;
+    margin-right: 1%;
+    width: 7%;
+    font-size: 17px;
+    font-weight: 700;
+    color: white;
+    cursor: pointer;
+}
+.botao-1:hover{
+    background-color: #ffce25;
+    transition: 0.3s;
+    cursor: pointer;
+    
+
+}
+
+.botao-2{
+    margin-left: 1%;
+ 
+    height: 5%;
+    background-color:white;
+    border-top: 1px solid #D8D5D4;
+    border-bottom: 1px solid #D8D5D4;
+    border-left: 1px solid #D8D5D4;
+    border-right: 1px solid #D8D5D4;
+    margin-right: 1%;
+    width: 8%;
+    font-size: 17px;
+    font-weight: 700;
+    color: black;
+    cursor: pointer;
+}
+.botao-2:hover{
+    background-color: gray;
+    transition: 0.3s;
+    cursor: pointer;
+    color: white;
+    
+
+}
+
+.mapa-2{
+    width: 100%;
+    height: 50%;
+    border:0 allowfullscreen;
+}
+
+.roda-pe{
+    height: 30%;
+    width: 100%;
+    background-color: gray;
+
+
+}
+.roda-pe h1 {
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+padding-top: 5%;
+margin-left: 2%;
+margin-top: 1%;
+
+}
+
+.contato-rd{
+    float: left;
+    width: 8%;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+.roda-pe p {
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 45%;
+    font-size: 20px;
+}
+
+.contato-rd2{
+    float: right;
+    margin-right: 42%;
+    width: 12%;
+}
+
+.contato-rd3{
+    position: absolute;
+    float: right;
+    margin-right: 5%;
+    width: 12%;
+    margin-left: 52%;
+}
+
+.contato-rd-3{
+    float: left;
+    width: 8%;
+    margin-left: 10%;
+    margin-top: 53%;
+}
+
+.roda-pe-2{
+    height: 30%;
+    width: 100%;
+    margin-top: 15%;
+    background-color: gray;
+
+
+}
+
+.contato-rd4{
+    float: right;
+    margin-right: 22%;
+    width: 12%;
+}
+
+.contato-rd5{
+    position: absolute;
+    float: right;
+    margin-right: 5%;
+    width: 12%;
+    margin-left: 22%;
+}
+
+.hrzaas{
+    margin-top: 5%;
+}
